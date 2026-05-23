@@ -21,7 +21,7 @@ A graduation project adapting Large Language Models (LLMs) for elementary math t
 
 *   **[CCIS Project Fair Poster](./Poster.pdf)**: Note this is Refined version of the poster presented at CCIS Project Fair.
 *   **[CCIS Project Fair Presentation Slides](./CCIS_Project_Fair_Presentation.pdf)**:  Original slide deck used during the CCIS Project Fair.
-*   **[🔥 Try the Tutor (Colab)](https://colab.research.google.com/drive/1HkpkdrwUBB_nAqA2KQ2l1eB0xnY4uBe9?usp=sharing)**: Single-turn Socratic math tutor interface using Gradio.
+*   **[🔥 Try the Tutor (Google Colab Notebook)](https://colab.research.google.com/drive/1HkpkdrwUBB_nAqA2KQ2l1eB0xnY4uBe9?usp=sharing)**: Single-turn Socratic math tutor interface using Gradio.
 
 ## 👥 Authors
 
