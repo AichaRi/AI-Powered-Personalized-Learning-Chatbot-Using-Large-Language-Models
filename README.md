@@ -23,6 +23,8 @@ Built using state-of-the-art parameter-efficient fine-tuning and reinforcement l
 
 *   **[Project Poster (Final)](./Poster.pdf)**: Updated visual summary of the research.
 *   **[Fair Presentation Slides](./CCIS_Project_Fair_Presentation.pdf)**: Slide deck used during the CCIS Project Fair.
+*   **[🔥 Try the Chatbot (Colab)](https://colab.research.google.com/drive/1HkpkdrwUBB_nAqA2KQ2l1eB0xnY4uBe9?usp=sharing)**: Run the Socratic math tutor interactively in Google Colab using the Gradio interface.
+
 
 *This project was featured at the CCIS Project Fair.*
 
